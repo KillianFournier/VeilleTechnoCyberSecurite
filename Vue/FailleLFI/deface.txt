@@ -1,0 +1,20 @@
+<HTML>
+<HEAD>
+<link rel="SHORTCUT ICON" href="https://image.flaticon.com/icons/png/512/40/40400.png">
+<TITLE>HACKED</TITLE>
+<STYLE type="text/css">
+body {
+background-color: rgb(0, 0, 0);
+background-image:url(https://img.phonandroid.com/2016/11/fond-ecran-noir.jpg);
+padding: 0;
+color: rgb(255, 0, 0);}
+</STYLE>
+ 
+<center><img height="500" width="650" src="https://mk0malcaredecgig0d6a.kinstacdn.com/wp-content/uploads/2018/07/Getting-hacked-harmful-website.jpg"/></center><br />
+
+<center><strong>Ce site a subi une deface</strong><br/>
+<strong>Nous vous demandons de payer une transaction de 10 Bitcoins</strong><br/><br/>
+<strong>Nous vous rendrons alors le site tel qu'il était avant le deface.</strong><br/><br/> <br/>
+<strong>Merci de votre coopération.</strong><br/></center>
+</HTML>
+</HEAD>

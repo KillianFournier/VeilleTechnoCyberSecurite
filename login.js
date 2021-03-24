@@ -1,0 +1,1 @@
+function Login(){var pseudo=document.login.pseudo.value;var username=pseudo.toLowerCase();var password=document.login.password.value;password=password.toLowerCase();if (pseudo=="json = file_get_content($_POST[])" && password=="password") {    window.location.replace("http://veilletechnobts.fr/Vue/vuePresentation.php");} else { alert("Mauvais mot de passe / wrong password"); }}
