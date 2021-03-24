@@ -1,6 +1,6 @@
 <?php
 // Connexion à la base de données MySQL 
-$conn = mysqli_connect("185.98.131.148", "veill1513693", "Veilletechno42", "veill1513693");
+$conn = mysqli_connect("db", "db", "db", "db");
 
 // Vérifier la connexion
 if ($conn -> connect_errno) {
